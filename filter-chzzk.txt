@@ -1,0 +1,48 @@
+! Top banner advertisement
+chzzk.naver.com##._is_scrolled_55vbw_12._container_55vbw_2
+
+! Mainscreen Container
+chzzk.naver.com##._header_zi67z_2:not(:has(a[href*="following"])):upward(1)
+chzzk.naver.com##._header_zi67z_2:has-text("팔로잉 채널 라이브"):upward(1):style(margin-top: 0px !important)
+chzzk.naver.com##._container_cy5qc_2:remove()
+chzzk.naver.com##._container_gftsh_1._container_zi67z_21
+chzzk.naver.com##._container_laqsy_2._container_zi67z_21
+chzzk.naver.com##div[id="home_banner"]:upward(1)
+chzzk.naver.com##section._container_zi67z_21:empty
+
+! Sidebar
+chzzk.naver.com##nav._is_expanded_q99ll_47._section_q99ll_26:nth-of-type(3)
+chzzk.naver.com##nav._is_expanded_q99ll_47._section_q99ll_26:nth-of-type(4)
+chzzk.naver.com##nav._is_expanded_q99ll_47._section_q99ll_26:nth-of-type(5)
+chzzk.naver.com##nav._is_expanded_q99ll_47._section_q99ll_26:nth-of-type(6)
+chzzk.naver.com##nav._is_expanded_q99ll_47._section_q99ll_26:nth-of-type(1) > ._list_q99ll_53 > li._item_q99ll_63:nth-of-type(2) > ._menu_q99ll_1
+chzzk.naver.com##nav._is_expanded_q99ll_47._section_q99ll_26:nth-of-type(1) > ._list_q99ll_53 > li._item_q99ll_63:nth-of-type(4) > ._menu_q99ll_1
+
+! Sidebar Cheesefarm
+chzzk.naver.com##li._item_q99ll_63:nth-of-type(6)
+
+! Header
+chzzk.naver.com##._navigation_w2qby_14
+chzzk.naver.com##div._item_sp9wj_48:nth-of-type(1)
+chzzk.naver.com##._banner_w2qby_78
+
+! Profile Menu
+chzzk.naver.com##div._wrapper_1d4zi_86:nth-of-type(2) > ul > li._item_1d4zi_111:nth-of-type(5) > ._area_1d4zi_22
+chzzk.naver.com##li._item_1d4zi_111:nth-of-type(8) > ._area_1d4zi_22
+chzzk.naver.com##li._item_1d4zi_111:nth-of-type(9) > ._area_1d4zi_22
+chzzk.naver.com##li._item_1d4zi_111:nth-of-type(10) > ._area_1d4zi_22
+chzzk.naver.com##div._wrapper_1d4zi_86:nth-of-type(3)
+chzzk.naver.com##div._wrapper_1d4zi_86:nth-of-type(4)
+chzzk.naver.com##div._wrapper_1d4zi_86:nth-of-type(5) > ul > li._item_1d4zi_111:nth-of-type(1) > ._area_1d4zi_22
+chzzk.naver.com##div._wrapper_1d4zi_86:nth-of-type(5) > ul > li._item_1d4zi_111:nth-of-type(2) > ._area_1d4zi_22
+
+! Jun 19, 2026 https://chzzk.naver.com Padding fix
+chzzk.naver.com##header[class^="_container_hv430_1"]:style(transform: unset !important)
+chzzk.naver.com##aside[class^="_container_1vdxf_2 _is_expanded_1vdxf_12"]:style(transform: translateY(60px) !important; height: 100vh !important)
+chzzk.naver.com##div[class^="_body_uaq06_11 _is_expanded_uaq06_22"]:style(padding-top: 0px !important)
+
+! Ad-block detection bypass
+chzzk.naver.com##+js(no-xhr-if, nam.veta.naver.com method:OPTIONS)
+
+! Popup
+chzzk.naver.com##._container_6t52z_1
