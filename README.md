@@ -5,6 +5,7 @@
 ## Filters
 
 filter-chzzk - https://raw.githubusercontent.com/fi-xz/naver-cleansefilter/refs/heads/main/filter-chzzk.txt
+
 filter-naver - https://raw.githubusercontent.com/fi-xz/naver-cleansefilter/refs/heads/main/filter-naver.txt
 
 ## 경고
