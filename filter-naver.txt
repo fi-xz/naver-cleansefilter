@@ -3,3 +3,5 @@ www.naver.com##.Layout-module__column_left___tLO23
 www.naver.com##div.Layout-module__content_area___b_3TU:nth-of-type(5)
 www.naver.com##.RightWidget-module__tool_area___dhpNQ
 www.naver.com##div[class^="Layout-module__column_right___wLgQj"]:style(margin: auto !important; float: none !important)
+www.naver.com##.type_recommend.shortcut_area
+www.naver.com##.header_inner:style(height: 69px !important)
