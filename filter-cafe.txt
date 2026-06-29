@@ -1,0 +1,12 @@
+section.cafe.naver.com##.editors_pick:remove()
+section.cafe.naver.com##.section_home_town:remove()
+section.cafe.naver.com##.home_recent:remove()
+section.cafe.naver.com##.home_theme:remove()
+section.cafe.naver.com##div.aside_link_area:nth-of-type(3)
+section.cafe.naver.com##div.aside_link_area:nth-of-type(5)
+section.cafe.naver.com##.snb_menu
+section.cafe.naver.com##a.btn_gnb:nth-of-type(2)
+section.cafe.naver.com##a.btn_gnb:nth-of-type(3)
+section.cafe.naver.com##a.btn_gnb:nth-of-type(4)
+section.cafe.naver.com###gnbMenu > div > .btn_gnb
+section.cafe.naver.com##.logo_nflea
