@@ -6,9 +6,9 @@
 
 filter-chzzk - https://raw.githubusercontent.com/fi-xz/naver-cleansefilter/refs/heads/main/filter-chzzk.txt
 
-<br />
-
 filter-naver - https://raw.githubusercontent.com/fi-xz/naver-cleansefilter/refs/heads/main/filter-naver.txt
+
+filter-cafe - https://raw.githubusercontent.com/fi-xz/naver-cleansefilter/refs/heads/main/filter-cafe.txt
 
 ## 경고
 
