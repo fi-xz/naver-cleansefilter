@@ -50,7 +50,7 @@ chzzk.naver.com##aside[class^="_container_1vdxf_2 _is_expanded_1vdxf_12"]:style(
 chzzk.naver.com##div[class^="_body_uaq06_11 _is_expanded_uaq06_22"]:style(padding-top: 0px !important)
 
 ! Ad-block detection bypass
-chzzk.naver.com##+js(no-xhr-if, nam.veta.naver.com method:OPTIONS)
+chzzk.naver.com##+js(json-prune, content.dab)
 
 ! Popup
 chzzk.naver.com##._container_6t52z_1
