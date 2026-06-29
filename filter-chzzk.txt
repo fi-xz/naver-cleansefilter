@@ -55,3 +55,7 @@ chzzk.naver.com##+js(json-prune, content.dab)
 
 ! Popup
 chzzk.naver.com##._container_6t52z_1
+
+! All Broadcasts filter fix
+chzzk.naver.com##._tab_tsisc_55:style(top: 0px !important)
+chzzk.naver.com##._filter_tsisc_36:style(top: 0px !important)
